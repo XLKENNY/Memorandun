@@ -16,5 +16,5 @@ CELERYBEAT_SCHEDULE = {
 }
 
 """
-    this is feature_2 modify
+    this is feature_1 modify
 """
