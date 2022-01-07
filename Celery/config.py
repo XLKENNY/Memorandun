@@ -17,4 +17,5 @@ CELERYBEAT_SCHEDULE = {
 
 """
     this is feature_1 modify
+    test git reset
 """
